@@ -2,4 +2,4 @@
 LaTex CV
 Diferentes plantillas para realizar un CV
 
-Las dos primeras se compilan desde pdflatex y la ultima con el comando make
+Sidebar e infographics se compilan desde pdflatex y modern se compila usando el comando make
